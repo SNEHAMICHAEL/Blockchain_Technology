@@ -9,3 +9,4 @@ contract KBAToken is ERC20 {
         _mint(msg.sender, 1000 * 10 ** decimals());
     }
 }
+
